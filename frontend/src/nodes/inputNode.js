@@ -16,7 +16,7 @@ export const InputNode = ({ id, data }) => {
       style={{
         backgroundColor: '#34495E',
         borderRadius: '10px',
-        padding: '20px',
+        padding: '30px',
         boxShadow: '0 4px 10px rgba(0, 0, 0, 0.1)',
         width: '300px',
         display: 'flex',
@@ -70,7 +70,7 @@ const styles = {
     fontSize: '14px',
     fontWeight: '500',
     color: '#ECF0F1',
-    marginBottom: '5px',
+    marginBottom: '2px',
   },
   inputField: {
     padding: '10px',
