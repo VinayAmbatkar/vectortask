@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# current outout and styling
 
 
 ![image](https://github.com/user-attachments/assets/2ba3b5ae-03f9-44c9-b867-94e48f67d19c)
